@@ -1,4 +1,4 @@
-# ricard
+# Ričard
 
 Ričard
 
