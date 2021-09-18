@@ -1,0 +1,22 @@
+{
+  "playlist" : [
+    {
+      "itemId": "dadaa",
+      "title": "Da, daa",
+      "subtitle": "",
+      "sound": "dadaa.mp3"
+    },
+    {
+      "itemId": "cekaj_dragane",
+      "title": "Čekaj Dragane...",
+      "subtitle": "",
+      "sound": "cekaj_dragane.mp3"
+    },
+    {
+      "itemId": "on_je_drogiran",
+      "title": "On je drogiran, Dragane...",
+      "subtitle": "",
+      "sound": "on_je_drogiran.mp3"
+    }
+  ]
+}
